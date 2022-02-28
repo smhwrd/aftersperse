@@ -14,4 +14,4 @@ Thanks to [Martin Parker](https://github.com/tinpark) for the handy grain window
 
 ## Known Bugs
 
-* Using multiple instances of this effect in one Ableton Live project will do stange things
+* Using multiple instances of this effect in one Ableton Live project will do strange things
